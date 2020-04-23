@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "name": "Beer and etc",
+      "image":"",
+      "Products": {
+        "Star": {
+            "title": "Star",
+            "type": "dairy",
+            "description": "Raw organic brown eggs in a basket",
+            "filename": "0.jpg",
+            "height": 600,
+            "width": 400,
+            "price": 28.1
+        },
+        "Trophy": {
+            "lat": "-37.3159",
+            "lng": "81.1496"
+          }
+      }
+      
+    },
+    {
+        "id": 2,
+        "name": "Cooking",
+        "image":"",
+        "Products": {
+          "Star": {
+              "title": "Milk",
+              "type": "dairy",
+              "description": "Raw organic brown eggs in a basket",
+              "filename": "0.jpg",
+              "height": 600,
+              "width": 400,
+              "price": 28.1
+          },
+          "Trophy": {
+              "lat": "-37.3159",
+              "lng": "81.1496"
+            }
+        }
+        
+      }
+]

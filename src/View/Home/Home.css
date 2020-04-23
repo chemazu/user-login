@@ -1,0 +1,66 @@
+*{
+    padding:0;
+    margin: 0;
+}
+.Home{
+    display: flex;
+    justify-content: space-between;
+    background-image: url(../Images/leftWrapper.jpg);
+    height: 100vh;
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+.leftWrapper{
+    background-color: rgba(0, 0, 0, 0.548);
+    color:white;
+    padding: 130px 250px 10px 100px;
+}
+.leftWrapper h1 {
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    font-family: 'Avenir 03', sans-serif;
+    font-size: 50px;
+    line-height: 43px;
+    font-weight: 900;
+}
+.leftWrapper h3 {
+    font-size: 25px;
+    line-height: 30px;
+    font-weight: 400;
+    font-family: 'Avenir 03', sans-serif;
+    margin-bottom: 15px;
+
+}
+.leftWrapper p{
+    font-weight: 300;
+    font-family: 'Avenir 03', sans-serif;
+    line-height: 25px;
+
+}
+.buttonWrapper{
+    display: flex;
+    margin-top: 50px;
+}
+.button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 42px;
+    width: 130px;
+    border-radius: 7px;
+    text-align: center;
+}
+.buttonOne{
+    background-color: green;
+    color:white;
+    margin-right: 25px;
+    
+}
+.buttonTwo{
+    background-color: white;
+    color:green; 
+}
+.signIn{
+    padding-top: 20px;
+}
